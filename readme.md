@@ -1,4 +1,4 @@
-[![Contributors](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)
+(https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)
 [![Forks](https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge)[forks-url]
 [![Stargazers](https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge)[stars-url]
 [![Issues](https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge)][issues-url]
